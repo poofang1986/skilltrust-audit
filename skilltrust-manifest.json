@@ -1,0 +1,125 @@
+{
+  "format": "skilltrust-manifest-v1",
+  "files": [
+    {
+      "path": ".github/dependabot.yml",
+      "sha256": "eada67e1b7f73d16a4c240ede6193c4852a2b0887e678a23dc7a3462810502e7",
+      "size": 112
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "273cf3ffbfcf87390e360cded2c76bfb8b9d14b2638d9531002179a12609e8a6",
+      "size": 534
+    },
+    {
+      "path": ".github/workflows/codeql.yml",
+      "sha256": "38a6c3faf5ac5fd6753d2f57b5a854b24fb54d3591e6aa908691c95779b79ac6",
+      "size": 402
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "c7fc1d192161b1a1044902d8768e073035bf61b1af092851e7178a998af214ad",
+      "size": 81
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "5b42ff887035e4047f31aa64b04ee7fd589d0ab5f603e970c83cff5ed8794b1b",
+      "size": 639
+    },
+    {
+      "path": "APPLICATION.md",
+      "sha256": "8269cb9993a64c5431324b85d17a43fb56c811f7c5ec6bba8740221ea8239d09",
+      "size": 1842
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "439eb4955627905105d08012a2a980f24e827d729270a2d06482e4b2ab73834b",
+      "size": 360
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "4b385a8af574167b05da64d27d78c3c2904b8a618193986a16d8e39a1df453a0",
+      "size": 597
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "51e738e5ccde7076c7c6baa8f6b59ed46d70dc1d2937dbe6a9c0d9a5d774e517",
+      "size": 1086
+    },
+    {
+      "path": "README.md",
+      "sha256": "e445c67b96003eb7d770b8177556e5c2a03741bd688ccf3ca6967b3a59deb7f9",
+      "size": 2884
+    },
+    {
+      "path": "README.zh-CN.md",
+      "sha256": "4ff0fda1214f173434252653f17d7fd4c52627fd8843efb8ef87753fd7944690",
+      "size": 1282
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "c4ebf0217c0230ca6fc3d9162ad941b527252a2b6da69412afb64612f5850875",
+      "size": 1077
+    },
+    {
+      "path": "docs/application-scorecard.md",
+      "sha256": "bfda45e4bc18190d6168a50693822fa81b6c7a1e20bd918374f2c514f0198927",
+      "size": 1555
+    },
+    {
+      "path": "docs/engagement-plan.md",
+      "sha256": "2237049848f0afd656cd62efe11d7bcfccf4be31ec74e99159ca2bd1844c2c0c",
+      "size": 1386
+    },
+    {
+      "path": "docs/field-note-daocui.md",
+      "sha256": "a069d44262318c97de116ad71b4be90ca161f7d09e64db28591250eb49045f38",
+      "size": 1504
+    },
+    {
+      "path": "docs/threat-model.md",
+      "sha256": "a3e9a3065da80f4ee89928223e4f675fa43134f77d991128c4dcad451bf14c5d",
+      "size": 2589
+    },
+    {
+      "path": "examples/daocui-sensitive-decision/SKILL.md",
+      "sha256": "1f74e39d4518ee6f2278b19d3fe06fe696ffcc8a995c33079f483581c1d80cb7",
+      "size": 1084
+    },
+    {
+      "path": "skills/skilltrust-audit/SKILL.md",
+      "sha256": "fafbe88e1dde429c7e50813de84628462cdaf0c42690772f5b7aaa6d259c2a6b",
+      "size": 3225
+    },
+    {
+      "path": "skills/skilltrust-audit/agents/openai.yaml",
+      "sha256": "4bed75d3e5bfa1b1d6dd191af6c947bcf582ef36b64e4bd2e02b79cb4ccceabb",
+      "size": 215
+    },
+    {
+      "path": "skills/skilltrust-audit/references/policy.md",
+      "sha256": "8f1666dd39c8b6d0dc8021066df928cc6797940e2e0366b7091bcdc4ec13c0f8",
+      "size": 697
+    },
+    {
+      "path": "skills/skilltrust-audit/references/risk-model.md",
+      "sha256": "f4b468f974cdd6755a897f6ca9fda4e8919f95c4c387ab5ca880919c356a7b2f",
+      "size": 1844
+    },
+    {
+      "path": "skills/skilltrust-audit/scripts/skilltrust.py",
+      "sha256": "6e1c79a6e39ba97af165995d44ddb30b8e3e4ec6ee2ffd0fedf90237f13eadfa",
+      "size": 14422
+    },
+    {
+      "path": "skilltrust-policy.json",
+      "sha256": "aec69e18f3d07a28821857ef0f291a9c20406cfd3c7d51d41991a7f1c4913c0e",
+      "size": 189
+    },
+    {
+      "path": "tests/test_skilltrust.py",
+      "sha256": "4e56a053ad45abf3e266f4792a731e9b2461716114b44bb7db834dd292c0cb75",
+      "size": 4661
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "max_file_bytes": 500000,
+  "max_text_lines": 5000,
+  "allowed_opaque_paths": [],
+  "ignored_paths": [],
+  "approved_registry_domains": [
+    "pypi.org",
+    "registry.npmjs.org"
+  ]
+}

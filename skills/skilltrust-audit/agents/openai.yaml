@@ -1,0 +1,4 @@
+interface:
+  display_name: "SkillTrust Audit"
+  short_description: "Audit Agent Skills before installation or release"
+  default_prompt: "Use $skilltrust-audit to audit this Agent Skill and produce a trust report."
