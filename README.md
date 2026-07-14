@@ -45,7 +45,7 @@ The first real-world extraction audit found a non-default dependency registry re
 
 ## Project status
 
-`v0.1.0` is an initial baseline designed for curated Skill repositories and human review. The next research targets are semantic declared-versus-observed behavior comparison, parser fuzzing, and release provenance signing.
+`v0.1.1` is an initial baseline designed for curated Skill repositories and human review. The next research targets are semantic declared-versus-observed behavior comparison, parser fuzzing, and release provenance signing.
 
 Maintainer: Felix Fang (`poofang1986`).
 

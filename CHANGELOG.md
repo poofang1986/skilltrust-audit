@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 - 2026-07-14
+
+- Updated GitHub Actions dependencies to their current major versions.
+
 ## 0.1.0 - 2026-07-14
 
 - Added deterministic Skill metadata, file inventory, execution-surface, secret, registry, and context-padding checks.

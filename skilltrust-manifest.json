@@ -8,12 +8,12 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "273cf3ffbfcf87390e360cded2c76bfb8b9d14b2638d9531002179a12609e8a6",
+      "sha256": "b3894757c6ba2ede0c4d83f2be144d18a33e4dc9351249a1d369bbf7e8b60d26",
       "size": 534
     },
     {
       "path": ".github/workflows/codeql.yml",
-      "sha256": "38a6c3faf5ac5fd6753d2f57b5a854b24fb54d3591e6aa908691c95779b79ac6",
+      "sha256": "1d988aae7240e818ed264863da950a1653fa681515a663dad74e1f30bca84d54",
       "size": 402
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "439eb4955627905105d08012a2a980f24e827d729270a2d06482e4b2ab73834b",
-      "size": 360
+      "sha256": "721733a66d33cddfbe289667dfdaaad110eaed76f2b5f058cd3042425811f3ec",
+      "size": 455
     },
     {
       "path": "CONTRIBUTING.md",
@@ -43,7 +43,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "d4247e1e27ec8bbea51ba03e6663f2f5125dc52c11323704bd7bf743bb70d6ef",
+      "sha256": "b31910a879486d573aca11cdf82bf2bc0eaaee3793236c665de975e2bf6e36c7",
       "size": 2925
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "path": "skills/skilltrust-audit/scripts/skilltrust.py",
-      "sha256": "6e1c79a6e39ba97af165995d44ddb30b8e3e4ec6ee2ffd0fedf90237f13eadfa",
+      "sha256": "c0e0a516cdd69c01089130ad72cd6b8220dc0813d283ecee22ac265ccc5a1f42",
       "size": 14422
     },
     {

@@ -14,7 +14,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 from urllib.parse import urlparse
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 SEVERITY = {"info": 0, "low": 1, "medium": 2, "high": 3, "critical": 4}
 TEXT_EXTENSIONS = {
     "", ".css", ".html", ".js", ".json", ".lock", ".md", ".mjs",
