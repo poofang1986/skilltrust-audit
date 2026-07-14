@@ -28,8 +28,8 @@
     },
     {
       "path": "APPLICATION.md",
-      "sha256": "8269cb9993a64c5431324b85d17a43fb56c811f7c5ec6bba8740221ea8239d09",
-      "size": 1842
+      "sha256": "0d30ba868650069a6c940a662d0c2cc8970e792d7d91d6295cd2966b7fe68829",
+      "size": 1902
     },
     {
       "path": "CHANGELOG.md",
@@ -43,13 +43,13 @@
     },
     {
       "path": "LICENSE",
-      "sha256": "51e738e5ccde7076c7c6baa8f6b59ed46d70dc1d2937dbe6a9c0d9a5d774e517",
-      "size": 1086
+      "sha256": "4d708a9822d39b9b52091ed7b84ef23e189adc495631c000955aa804c6cfa3ee",
+      "size": 1101
     },
     {
       "path": "README.md",
-      "sha256": "e445c67b96003eb7d770b8177556e5c2a03741bd688ccf3ca6967b3a59deb7f9",
-      "size": 2884
+      "sha256": "d4247e1e27ec8bbea51ba03e6663f2f5125dc52c11323704bd7bf743bb70d6ef",
+      "size": 2925
     },
     {
       "path": "README.zh-CN.md",

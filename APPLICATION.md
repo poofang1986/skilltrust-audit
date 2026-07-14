@@ -1,12 +1,18 @@
 # Patch the Planet Application Draft
 
+## Applicant
+
+- First name: Felix
+- Last name: Fang
+- Email: 1950039600@qq.com
+
 ## Project name
 
 SkillTrust Audit
 
 ## Project repository URL
 
-To be added after the public repository and `v0.1.0` release exist.
+https://github.com/poofang1986/skilltrust-audit
 
 ## Anything we should know about your project, or why you're interested?
 
